@@ -1,6 +1,6 @@
 # cnn-monkeys-classification
 In this project I present the best classifier I built, using CNN to classify Monkey images predicting the species of the captured animals. The model is chosen in terms of accuracy and loss performance in the validation set, chosen among the many through an ablation study.
-The model is trained on the dataset available on Kaggle (https://www.kaggle.com/slothkong/10-monkey-species), it present 1367 images labelled in 10 classes:
+The model is trained on the dataset available on Kaggle (https://www.kaggle.com/slothkong/10-monkey-species), it present 1367 images, divided in traing and validation set, labelled in 10 classes:
 
 | Label | Latin Name            | Common Name               |
 |-------|-----------------------|---------------------------|
